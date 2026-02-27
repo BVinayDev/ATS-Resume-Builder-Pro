@@ -1,4 +1,4 @@
-&lt;div align="center"&gt;
+
 
 # 🚀 ATS Resume Builder Pro v9.0
 
@@ -96,3 +96,4 @@ pip install -r requirements.txt
 
 # Run the application
 python src/ats_resume_builder.py
+
