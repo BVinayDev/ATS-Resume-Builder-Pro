@@ -1,0 +1,11 @@
+# ATS Resume Builder Pro - Dependencies
+# Core Application
+python-docx>=0.8.11
+
+# Optional: For PDF conversion (Windows only)
+# docx2pdf>=0.1.8
+
+# Development Dependencies (optional)
+# pytest>=7.0.0
+# black>=22.0.0
+# flake8>=4.0.0
